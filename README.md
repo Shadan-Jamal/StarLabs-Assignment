@@ -22,7 +22,6 @@ A modern events listing app built with React, Vite, TypeScript, Tailwind, and Re
 
 ### 2) Install dependencies
 ```bash
-cd frontend
 npm install
 ```
 
