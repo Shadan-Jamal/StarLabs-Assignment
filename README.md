@@ -90,3 +90,4 @@ Base URL: `http://localhost:3000/`
 - `POST /types` – add a type `{ id, name }`
 
 ---
+> **Note:** Extra data has been added to `db.json` to ensure there are enough events for effective pagination display and testing.
