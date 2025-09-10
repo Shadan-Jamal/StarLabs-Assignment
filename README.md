@@ -2,6 +2,9 @@
 
 A modern events listing app built with React, Vite, TypeScript, Tailwind, and Redux Toolkit. It uses `json-server` to mock a REST API for events, locations, and types.
 
+### Screenshot
+![App screenshot](public/screenshot.png)
+
 ### Features
 - Add new events via a modal form (POST to API)
 - Dynamic locations and types endpoints (GET/POST)
