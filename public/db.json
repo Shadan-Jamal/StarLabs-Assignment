@@ -1,0 +1,488 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Community Yoga Session",
+      "type": "Fitness",
+      "date": "2025-08-20",
+      "location": "Bangalore",
+      "host": "Yoga with Anu",
+      "description": "Join us for a peaceful yoga session in Cubbon Park."
+    },
+    {
+      "id": "2",
+      "title": "Beginner Guitar Workshop",
+      "type": "Music",
+      "date": "2025-08-22",
+      "location": "Mumbai",
+      "host": "Strings Academy",
+      "description": "Learn the basics of guitar playing with hands-on guidance."
+    },
+    {
+      "id": "3",
+      "title": "Startup Networking Meetup",
+      "type": "Meetup",
+      "date": "2025-08-25",
+      "location": "Delhi",
+      "host": "Delhi Entrepreneurs Club",
+      "description": "Meet fellow entrepreneurs, pitch ideas, and network."
+    },
+    {
+      "id": "4",
+      "title": "Digital Marketing Seminar",
+      "type": "Workshop",
+      "date": "2025-08-28",
+      "location": "Hyderabad",
+      "host": "Marketing Gurus",
+      "description": "Learn the latest trends and strategies in digital marketing."
+    },
+    {
+      "id": "5",
+      "title": "Weekend Trek to Nandi Hills",
+      "type": "Sports",
+      "date": "2025-08-30",
+      "location": "Bangalore",
+      "host": "Adventure Trails",
+      "description": "An early morning trek to Nandi Hills followed by breakfast."
+    },
+    {
+      "id": "6",
+      "title": "Art & Craft for Kids",
+      "type": "Workshop",
+      "date": "2025-09-01",
+      "location": "Pune",
+      "host": "Creative Hands",
+      "description": "Fun and educational art activities for children aged 6–12."
+    },
+    {
+      "id": "7",
+      "title": "City Photography Walk",
+      "type": "Meetup",
+      "date": "2025-09-03",
+      "location": "Chennai",
+      "host": "Lens Lovers Club",
+      "description": "Explore the city while improving your photography skills."
+    },
+    {
+      "id": "8",
+      "title": "Cooking Masterclass: Italian Cuisine",
+      "type": "Workshop",
+      "date": "2025-09-05",
+      "location": "Kolkata",
+      "host": "Chef Maria",
+      "description": "Learn to cook authentic Italian dishes from scratch."
+    },
+    {
+      "id": "9",
+      "title": "Live Jazz Night",
+      "type": "Music",
+      "date": "2025-09-07",
+      "location": "Goa",
+      "host": "Goa Jazz Club",
+      "description": "An evening of live jazz performances by local musicians."
+    },
+    {
+      "id": "10",
+      "title": "Community Beach Cleanup",
+      "type": "Social",
+      "date": "2025-09-10",
+      "location": "Mumbai",
+      "host": "Eco Warriors",
+      "description": "Join us in cleaning up Juhu Beach and making a difference."
+    },
+    {
+      "id": "11",
+      "title": "Stand-up Comedy Night",
+      "type": "Entertainment",
+      "date": "2025-09-12",
+      "location": "Bangalore",
+      "host": "Laugh Out Loud",
+      "description": "A night full of laughter with top stand-up comedians."
+    },
+    {
+      "id": "12",
+      "title": "Chess Tournament",
+      "type": "Sports",
+      "date": "2025-09-14",
+      "location": "Delhi",
+      "host": "Delhi Chess Club",
+      "description": "Compete with fellow chess enthusiasts for exciting prizes."
+    },
+    {
+      "id": "13",
+      "title": "Mindfulness Meditation Retreat",
+      "type": "Fitness",
+      "date": "2025-09-16",
+      "location": "Rishikesh",
+      "host": "Peaceful Minds",
+      "description": "A weekend retreat to practice mindfulness and meditation."
+    },
+    {
+      "id": "14",
+      "title": "Blockchain for Beginners",
+      "type": "Workshop",
+      "date": "2025-09-18",
+      "location": "Pune",
+      "host": "TechLearn Hub",
+      "description": "Understand the basics of blockchain and its applications."
+    },
+    {
+      "id": "15",
+      "title": "Bird Watching Morning",
+      "type": "Meetup",
+      "date": "2025-09-20",
+      "location": "Jaipur",
+      "host": "Nature Explorers",
+      "description": "Join us to spot and learn about local bird species."
+    },
+    {
+      "id": "16",
+      "title": "Poetry Open Mic",
+      "type": "Entertainment",
+      "date": "2025-09-22",
+      "location": "Chandigarh",
+      "host": "Words & Verses",
+      "description": "An evening for poets to share their work with the community."
+    },
+    {
+      "id": "17",
+      "title": "DIY Home Gardening Workshop",
+      "type": "Workshop",
+      "date": "2025-09-24",
+      "location": "Ahmedabad",
+      "host": "Green Thumbs",
+      "description": "Learn how to start and maintain your own home garden."
+    },
+    {
+      "id": "18",
+      "title": "Marathon for Charity",
+      "type": "Sports",
+      "date": "2025-09-26",
+      "location": "Kochi",
+      "host": "Run for Cause",
+      "description": "Participate in a marathon to raise funds for charity."
+    },
+    {
+      "id": "19",
+      "title": "Language Exchange Meetup",
+      "type": "Meetup",
+      "date": "2025-09-28",
+      "location": "Bangalore",
+      "host": "Global Friends",
+      "description": "Practice languages and make friends from different cultures."
+    },
+    {
+      "id": "20",
+      "title": "Film Screening: Indie Shorts",
+      "type": "Entertainment",
+      "date": "2025-09-30",
+      "location": "Mumbai",
+      "host": "Cinephiles Club",
+      "description": "An evening of short films by independent filmmakers."
+    },
+    {
+      "id": "21",
+      "title": "Code with us",
+      "type": "Coding",
+      "date": "2025-09-19",
+      "location": "Lucknow",
+      "host": "XYZ",
+      "description": "A seminar about learning the fundamentals of Java."
+    },
+    {
+      "id": "22",
+      "title": "Salsa Dance Night",
+      "type": "Dance",
+      "date": "2025-10-02",
+      "location": "Bangalore",
+      "host": "Dance Vibes",
+      "description": "Enjoy a fun evening of salsa dancing for all levels."
+    },
+    {
+      "id": "23",
+      "title": "Eco-Friendly Diwali Workshop",
+      "type": "Workshop",
+      "date": "2025-10-04",
+      "location": "Nagpur",
+      "host": "Green India",
+      "description": "Learn to make eco-friendly Diwali decorations."
+    },
+    {
+      "id": "24",
+      "title": "Open Source Hackathon",
+      "type": "Coding",
+      "date": "2025-10-06",
+      "location": "Hyderabad",
+      "host": "Code4All",
+      "description": "Collaborate and build open source projects in 24 hours."
+    },
+    {
+      "id": "25",
+      "title": "Street Food Festival",
+      "type": "Social",
+      "date": "2025-10-08",
+      "location": "Indore",
+      "host": "Foodies United",
+      "description": "Taste the best street food from across the city."
+    },
+    {
+      "id": "26",
+      "title": "Classical Music Recital",
+      "type": "Music",
+      "date": "2025-10-10",
+      "location": "Chennai",
+      "host": "Sangeet Sabha",
+      "description": "An evening of Indian classical music performances."
+    },
+    {
+      "id": "27",
+      "title": "Table Tennis League",
+      "type": "Sports",
+      "date": "2025-10-12",
+      "location": "Bhopal",
+      "host": "Bhopal TT Club",
+      "description": "Compete in singles and doubles table tennis matches."
+    },
+    {
+      "id": "28",
+      "title": "Women in Tech Meetup",
+      "type": "Meetup",
+      "date": "2025-10-14",
+      "location": "Pune",
+      "host": "TechWomen",
+      "description": "Connect and share experiences with women in technology."
+    },
+    {
+      "id": "29",
+      "title": "Bollywood Movie Quiz",
+      "type": "Entertainment",
+      "date": "2025-10-16",
+      "location": "Mumbai",
+      "host": "Quiz Masters",
+      "description": "Test your Bollywood knowledge and win prizes."
+    },
+    {
+      "id": "30",
+      "title": "Sunrise Cycling Ride",
+      "type": "Fitness",
+      "date": "2025-10-18",
+      "location": "Surat",
+      "host": "Pedal Pushers",
+      "description": "Join a group cycling ride at sunrise along the river."
+    },
+    {
+      "id": "31",
+      "title": "Kite Flying Festival",
+      "type": "Social",
+      "date": "2025-10-20",
+      "location": "Ahmedabad",
+      "host": "Sky High Club",
+      "description": "Fly kites and enjoy snacks with friends and family."
+    },
+    {
+      "id": "32",
+      "title": "Robotics for Beginners",
+      "type": "STEM",
+      "date": "2025-10-22",
+      "location": "Bangalore",
+      "host": "RoboKids",
+      "description": "Build your first robot in this hands-on workshop."
+    },
+    {
+      "id": "33",
+      "title": "Book Lovers Meetup",
+      "type": "Meetup",
+      "date": "2025-10-24",
+      "location": "Kolkata",
+      "host": "Readers' Circle",
+      "description": "Discuss your favorite books and authors with fellow readers."
+    },
+    {
+      "id": "34",
+      "title": "Photography Basics",
+      "type": "Workshop",
+      "date": "2025-10-26",
+      "location": "Nagpur",
+      "host": "Photo School",
+      "description": "Learn the basics of photography in a day."
+    },
+    {
+      "id": "35",
+      "title": "Halloween Costume Party",
+      "type": "Entertainment",
+      "date": "2025-10-31",
+      "location": "Goa",
+      "host": "Party Planners",
+      "description": "Dress up and dance at our annual Halloween bash."
+    },
+    {
+      "id": "36",
+      "title": "Urban Sketching Walk",
+      "type": "Art",
+      "date": "2025-11-02",
+      "location": "Bangalore",
+      "host": "Sketchers Collective",
+      "description": "Sketch cityscapes with fellow artists outdoors."
+    },
+    {
+      "id": "37",
+      "title": "Beginner's French Class",
+      "type": "Language",
+      "date": "2025-11-04",
+      "location": "Delhi",
+      "host": "Lingua World",
+      "description": "Start learning French in a friendly group setting."
+    },
+    {
+      "id": "38",
+      "title": "Startup Pitch Night",
+      "type": "Meetup",
+      "date": "2025-11-06",
+      "location": "Hyderabad",
+      "host": "Startup Hub",
+      "description": "Pitch your startup idea to investors and mentors."
+    },
+    {
+      "id": "39",
+      "title": "Zumba Fitness Party",
+      "type": "Fitness",
+      "date": "2025-11-08",
+      "location": "Chennai",
+      "host": "Zumba Zone",
+      "description": "Dance your way to fitness with a high-energy Zumba session."
+    },
+    {
+      "id": "40",
+      "title": "Winter Coding Bootcamp",
+      "type": "Coding",
+      "date": "2025-11-10",
+      "location": "Bangalore",
+      "host": "CodeCamp",
+      "description": "Intensive bootcamp to learn web development basics."
+    }
+  ],
+  "locations": [
+    {
+      "id": "1",
+      "name": "Bangalore"
+    },
+    {
+      "id": "2",
+      "name": "Mumbai"
+    },
+    {
+      "id": "3",
+      "name": "Delhi"
+    },
+    {
+      "id": "4",
+      "name": "Hyderabad"
+    },
+    {
+      "id": "5",
+      "name": "Pune"
+    },
+    {
+      "id": "6",
+      "name": "Kolkata"
+    },
+    {
+      "id": "7",
+      "name": "Goa"
+    },
+    {
+      "id": "8",
+      "name": "Rishikesh"
+    },
+    {
+      "id": "9",
+      "name": "Jaipur"
+    },
+    {
+      "id": "10",
+      "name": "Chandigarh"
+    },
+    {
+      "id": "11",
+      "name": "Ahmedabad"
+    },
+    {
+      "id": "12",
+      "name": "Kochi"
+    },
+    {
+      "id": "13",
+      "name": "Lucknow"
+    },
+    {
+      "id": "14",
+      "name": "Chennai"
+    },
+    {
+      "id": "15",
+      "name": "Nagpur"
+    },
+    {
+      "id": "16",
+      "name": "Indore"
+    },
+    {
+      "id": "17",
+      "name": "Bhopal"
+    },
+    {
+      "id": "18",
+      "name": "Surat"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "Fitness"
+    },
+    {
+      "id": "2",
+      "name": "Music"
+    },
+    {
+      "id": "3",
+      "name": "Entertainment"
+    },
+    {
+      "id": "4",
+      "name": "Meetup"
+    },
+    {
+      "id": "5",
+      "name": "Workshop"
+    },
+    {
+      "id": "6",
+      "name": "Sports"
+    },
+    {
+      "id": "7",
+      "name": "Social"
+    },
+    {
+      "id": "8",
+      "name": "Coding"
+    },
+    {
+      "id": "9",
+      "name": "Dance"
+    },
+    {
+      "id": "10",
+      "name": "STEM"
+    },
+    {
+      "id": "11",
+      "name": "Art"
+    },
+    {
+      "id": "12",
+      "name": "Language"
+    }
+  ]
+}
